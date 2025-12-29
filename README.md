@@ -6,7 +6,7 @@ Drive-VLM is an efficient multimodal framework built upon the **SigLIP2-SO400M**
 - [Full Project Report](./docs/Project_Report.pdf)
 - [Presentation Slides](./docs/Presentation_Slides.pdf)
 
-![Drive-VLM Architecture](./docs/assets/architecture.png)
+![Drive-VLM Architecture](./assets/architecture.png)
 
 ## Key Contributions
 
