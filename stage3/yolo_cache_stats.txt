@@ -1,0 +1,36 @@
+============================================================
+BDD100K YOLO Detection Statistics
+============================================================
+
+Total videos: 446
+Successfully processed: 446
+Failed videos: 0
+
+Average objects per video: 4.68
+Max objects in a video: 12
+Min objects in a video: 1
+
+Top 20 Most Common Objects:
+------------------------------------------------------------
+car                    446 videos (100.0%)
+traffic light          362 videos ( 81.2%)
+truck                  351 videos ( 78.7%)
+person                 277 videos ( 62.1%)
+bus                    194 videos ( 43.5%)
+fire hydrant            71 videos ( 15.9%)
+bicycle                 71 videos ( 15.9%)
+stop sign               67 videos ( 15.0%)
+motorcycle              52 videos ( 11.7%)
+handbag                 32 videos (  7.2%)
+backpack                25 videos (  5.6%)
+potted plant            25 videos (  5.6%)
+bench                   18 videos (  4.0%)
+umbrella                16 videos (  3.6%)
+train                   15 videos (  3.4%)
+parking meter            9 videos (  2.0%)
+chair                    8 videos (  1.8%)
+skateboard               6 videos (  1.3%)
+tv                       6 videos (  1.3%)
+suitcase                 6 videos (  1.3%)
+
+============================================================

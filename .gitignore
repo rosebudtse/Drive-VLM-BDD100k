@@ -1,0 +1,36 @@
+# === Large Model Files ===
+*.pt
+*.bin
+*.pth
+
+
+ckpt/**
+!ckpt/stage1_pretain/runs/Dec19_03-23-30_autodl-container-060c4ba85a-fb4d18d2/
+
+
+!ckpt/stage2_lora/runs/Dec19_12-21-00_autodl-container-a126439782-4a54ef2d/
+
+
+# === Dataset (BDD100k) ===
+data/*.json
+data/*.jsonl
+!data/train_ready.json
+data/zip_folder/
+**/__pycache__/
+
+stage3/*
+!stage3/extract_keyword_claude.py
+!stage3/extract_keyword.py
+!stage3/grpo_reward_func.py
+!stage3/preprocess_yolo_cache_pil.py
+!stage3/vocabulary_config.py
+!stage3/yolo_cache_stats.txt
+
+
+# === Logs & Misc ===
+*.log
+.ipynb_checkpoints/
+
+test.mov
+test_qwen3_rewrite.py
+eval_metrics.py
